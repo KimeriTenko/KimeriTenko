@@ -1,10 +1,7 @@
-### Hi there 👋
-
 <!--
 **KimeriTenko/KimeriTenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-# Hi there, I'm Mary - aka [KimeriTenko] 👋 
+# Hi there, I'm Mary - aka KimeriTenko 👋 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 ## I'm a full stack web developer 
