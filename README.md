@@ -4,23 +4,19 @@
 # Hi there, I'm Mary - aka KimeriTenko 👋 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-## I'm a full stack web developer 
-- 🔭 I’m currently working on a website for a sushi business
+## I'm a full stack web developer
+- 🔭 I’m currently working on a commissioned website for a sushi business and a Super Breakout game
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Angular and Typescript
 - ⚡ Fun fact: I'm a long time Aikido Practitioner
-- 📫 How to reach me: ...
-
 ### Connect with me:
 <!-- 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-
+&nbsp;&nbsp;-->
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/maryfrye#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/maryfrye#gh-dark-mode-only)
+&nbsp;&nbsp; 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -41,9 +37,6 @@
 <br />
 <br />
 
----
-÷÷÷
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -58,5 +51,5 @@ START_SECTION:activity-->
 
 </details>
 
-<!-- [website]: https://themaryfrye.com
-[linkedin]: https://linkedin.com/in/maryfrye -->
+<!-- [website]: https://themaryfrye.com-->
+[linkedin]: https://linkedin.com/in/maryfrye 
