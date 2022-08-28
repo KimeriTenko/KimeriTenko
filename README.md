@@ -8,7 +8,7 @@
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="https://www.freepik.com/free-photo/3d-modern-data-technology-background-with-plexus-design_29262356.htm#page=2&query=business%20technology%20background&position=19&from_view=search" width="1280" height="640"/>
+  <img src="/img/3d-modern-data-technology-background-with-plexus-design.jpg" width="640" height="320"/>
   <!--Image by kjpargeter</a> on Freepik -->
 </div>
 
