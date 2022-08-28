@@ -19,8 +19,8 @@
 - 🥅 2023 Goals: Learn more about Rust and Typescript
 - ⚡ Fun fact: I'm a long time Aikido Practitioner
 ### Connect with me:
-<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/maryfrye#gh-light-mode-only) -->
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/maryfrye#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mary-frye-3b9877247#gh-light-mode-only)
+<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mary-frye-3b9877247#gh-dark-mode-only) -->
 &nbsp;&nbsp; 
 <!-- [website]: https://themaryfrye.com-->
 ### :hammer_and_wrench: Languages and Tools:
@@ -47,4 +47,4 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimeriTenko&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/KimeriTenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimeriTenko&layout=compact&theme=vision-friendly-dark)](https://github.com/KimeriTenko/github-readme-stats)
