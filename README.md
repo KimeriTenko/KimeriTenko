@@ -7,8 +7,16 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
 ## I'm a full stack web developer
-<div align ="center">
-  <img src="https://img.freepik.com/free-photo/3d-modern-data-technology-background-with-plexus-design_1048-16286.jpg?w=1480&t=st=1661711289~exp=1661711889~hmac=037142cd5d7d6af039f305803293238724b0c22d14d59e8c6b836761d39bd70d" width="600" height="300"/> <!--Image by kjpargeter</a> on Freepik -->
+<div class="banner">
+div {
+    position:fixed;
+    left:0px;
+    right:0px;
+    top:0;
+    height:250px;
+    background:url("https://www.freepik.com/free-photo/3d-modern-data-technology-background-with-plexus-design_29262356.htm#page=2&query=business%20technology%20background&position=19&from_view=search") no-repeat center center;
+     <!--Image by kjpargeter</a> on Freepik -->
+}
 </div>
 
 ---
