@@ -5,7 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+
 ## I'm a full stack web developer
+<div align ="center">
+  <a href="https://www.freepik.com/free-photo/3d-modern-data-technology-background-with-plexus-design_29262356.htm#page=2&query=business%20technology%20background&position=19&from_view=search"> <!--Image by kjpargeter</a> on Freepik -->
+</div>
+
 - 🔭 I’m currently working on a commissioned website for a sushi business and a Super Breakout game
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn more about Rust and Typescript
