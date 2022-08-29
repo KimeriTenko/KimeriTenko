@@ -39,7 +39,7 @@
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <!-- <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" /> -->
   <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-  <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
+  <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/KimeriTenko/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
   <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
