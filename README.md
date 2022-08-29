@@ -20,10 +20,10 @@
 - 🥅 2023 Goals: Learn more about Rust and Typescript
 - ⚡ Fun fact: I'm a long time Aikido Practitioner
 ### Connect with me:
-<div>
-  <img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+<div id="badges">
+  <a href="www.linkedin.com/in/mary-frye-3b9877247">
+    <img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 </div>
-
 <!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mary-frye-3b9877247#gh-dark-mode-only) -->
 &nbsp;&nbsp; 
 <!-- [website]: https://themaryfrye.com-->
