@@ -22,7 +22,7 @@
 ### Connect with me:
 
 <div id="badges">
-  <a href="www.linkedin.com/in/mary-frye-3b9877247">
+  <a href="https://www.linkedin.com/in/mary-frye-3b9877247">
     <img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 </div>
 
