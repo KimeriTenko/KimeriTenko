@@ -28,8 +28,8 @@
 
 ---
 
-<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mary-frye-3b9877247)
-&nbsp;&nbsp;  -->
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mary-frye-3b9877247)
+&nbsp;&nbsp; 
 <!-- [website]: https://themaryfrye.com-->
 ### :hammer_and_wrench: Languages and Tools:
 <div>
