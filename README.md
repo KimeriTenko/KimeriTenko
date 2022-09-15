@@ -2,14 +2,14 @@
 **KimeriTenko/KimeriTenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1> Hi there, I'm Mary - aka KimeriTenko
-  <img src="https://photos.app.goo.gl/bNVhzUHopcgPgJyi9" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="/img/3d-modern-data-technology-background-with-plexus-design.jpg" width="640" height="320"/>
-  <!--Image by kjpargeter</a> on Freepik -->
+  <img src="https://photos.app.goo.gl/bNVhzUHopcgPgJyi9" width="640" height="320"/>
+  <!--Image by mfrye-->
 </div>
 
 ---
