@@ -6,17 +6,15 @@
 </h1>
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 
-## I'm a full stack web developer
-<div align="center">
-  <img src="../img/../KimeriTenko/img/deskShot.png" width="600" height="300"/>
-  <!--Image by mfrye-->
-</div>
+## I'm a full stack web developer                                        
+![deskShot2](https://user-images.githubusercontent.com/101679159/190544144-2c3841af-e830-47d0-9da5-17f79e0f2483.png)
+<!--Image by mfrye-->
+
 
 ---
-s
+
 ### :woman_technologist: About Me:
 - 🔭 I’m currently working on a commissioned website for a custom quilt business and a custom route planner app
-- 🌱 I’m currently learning everything 
 - 🥅 2023 Goals: Learn more about Rust and Typescript
 - ⚡ Fun fact: I'm a long time Aikido Practitioner
 ### Connect with me:
