@@ -8,14 +8,14 @@
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="https://photos.app.goo.gl/UsdqR3Tza1BqSXvH7" width="712" height="322"/>
+  <img src="https://photos.app.goo.gl/iPg94Q1sqhYVagKY7" width="712" height="322"/>
   <!--Image by mfrye-->
 </div>
 
 ---
 
 ### :woman_technologist: About Me:
-- 🔭 I’m currently working on a commissioned website for a sushi business and a Super Breakout game
+- 🔭 I’m currently working on a commissioned website for a custom quilt business and a custom route planner app
 - 🌱 I’m currently learning everything 
 - 🥅 2023 Goals: Learn more about Rust and Typescript
 - ⚡ Fun fact: I'm a long time Aikido Practitioner
@@ -49,13 +49,12 @@
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
- <img align="left" alt="Rust" width="26px" svg style="color: white" src="https://www.w3.org/2000/svg" style="padding-right:10px;" /> 
-<!-- Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com"  -->
+ <!-- <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" /> -->
+          
 
-  <img align="left" alt="Github" width="26px" src="https://photos.app.goo.gl/UsdqR3Tza1BqSXvH7" style="padding-right:10px;" />
-  <!-- img by GitHub by Icons8-->
+<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
-  <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/KimeriTenko/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/KimeriTenko/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
 
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
