@@ -8,7 +8,7 @@
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="https://photos.app.goo.gl/bNVhzUHopcgPgJyi9" width="640" height="320"/>
+  <img src="https://photos.app.goo.gl/bNVhzUHopcgPgJyi9" width="600" height="300"/>
   <!--Image by mfrye-->
 </div>
 
@@ -42,7 +42,7 @@
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <!-- <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" /> -->
-  <img align="left" alt="Github" width="26px" src="https://icons8.com/icon/12599/github" style="padding-right:10px;" />
+  <img align="left" alt="Github" width="26px" src="https://img.icons8.com/ios-filled/344/github.png" style="padding-right:10px;" />
   <!-- img by GitHub by Icons8-->
   <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/KimeriTenko/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
