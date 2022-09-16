@@ -8,7 +8,7 @@
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="https://photos.app.goo.gl/bNVhzUHopcgPgJyi9" width="600" height="300"/>
+  <img src="https://photos.app.goo.gl/UsdqR3Tza1BqSXvH7" width="1424" height="645"/>
   <!--Image by mfrye-->
 </div>
 
