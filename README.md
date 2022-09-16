@@ -8,12 +8,12 @@
 
 ## I'm a full stack web developer
 <div align="center">
-  <img src="https://photos.app.goo.gl/iPg94Q1sqhYVagKY7" width="712" height="322"/>
+  <img src="../img/../KimeriTenko/img/deskShot.png" width="712" height="322"/>
   <!--Image by mfrye-->
 </div>
 
 ---
-
+s
 ### :woman_technologist: About Me:
 - 🔭 I’m currently working on a commissioned website for a custom quilt business and a custom route planner app
 - 🌱 I’m currently learning everything 
@@ -47,12 +47,16 @@
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+  <img align="left" alt="Redux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="padding-right:10px;" />
 
  <!-- <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" /> -->
           
+  <!-- <img align="left" alt="AWS" width="26px"src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px" /> -->
 
-<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" /> -->
 
 <img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/KimeriTenko/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px" />
 
